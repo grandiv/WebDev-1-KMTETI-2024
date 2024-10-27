@@ -4,3 +4,6 @@
 [submodule "final_project"]
 	path = final_project
 	url = https://github.com/grandiv/Final-Project-Grandiv_Pelatihan-KMTETI-GO-2024.git
+[submodule "week5/Pelatihan-KMTETI-GO_Week-5"]
+	path = week5/Pelatihan-KMTETI-GO_Week-5
+	url = https://github.com/grandiv/Pelatihan-KMTETI-GO_Week-5.git
